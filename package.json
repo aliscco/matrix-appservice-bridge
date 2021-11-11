@@ -32,7 +32,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "extend": "^3.0.2",
-    "is-my-json-valid": "^2.20.5",
+    "is-my-json-valid": "^2.20.6",
     "js-yaml": "^4.0.0",
     "matrix-appservice": "^0.8.0",
     "matrix-js-sdk": "^9.9.0",
