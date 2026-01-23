@@ -52,7 +52,7 @@
     "@types/nopt": "^3.0.29",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
     "@typescript-eslint/parser": "^4.19.0",
-    "eslint": "^7.22.0",
+    "eslint": "^9.0.0",
     "jasmine": "^3.7.0",
     "nyc": "^15.1.0",
     "typedoc": "^0.20.33",
